@@ -1,4 +1,4 @@
-# 📦 TypeScript Library Template
+# 📘 TypeScript Library Template
 
 This is a template repository for a TypeScript library for Omni projects.
 
