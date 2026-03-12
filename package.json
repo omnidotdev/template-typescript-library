@@ -32,7 +32,7 @@
     "typescript",
     "library"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/omnidotdev/template-typescript-library#readme",
   "repository": {
     "type": "git",
